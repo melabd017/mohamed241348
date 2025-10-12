@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 8e8e6c0acaae75e4981e4866eab5d7b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 239
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ec15a896f9bc944bc216ebf25fa068
+      internalID: -1435476672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2abe57a4257344e8dd410cfa1f72c1
+      internalID: 2026769549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 239
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e8a88c57d8af4da17112fb37409ad
+      internalID: 742231500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 239
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2e8d8c214cb9349acd347324517325
+      internalID: -867571797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f761ebec6272f143992f04810e870ec
+      internalID: 1672423735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 129
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca1c1fe4adaa6498d8004feb64daa1
+      internalID: 120408161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 129
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c06ccd3e51b69478f74597230a7f45
+      internalID: 187788175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 127
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49956c3a801d28642a071d102de47f86
+      internalID: 516251764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71739266a96d6546826dc0fa25958c5
+      internalID: 1081352766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 10
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7499a794909942a0bb5f71ede7e2c
+      internalID: -952441060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 11
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7b78201e2ca744a4c6d2c23087647
+      internalID: 1467712249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 11
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9060ece317637d46beec7efcd5ce292
+      internalID: 1015201726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_0: -1435476672
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_8: 1081352766
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_5: 120408161
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_7: 516251764
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_10: 1467712249
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_9: -952441060
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_1: 2026769549
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_3: -867571797
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_11: 1015201726
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_6: 187788175
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_2: 742231500
+      pngtree-character-sprite-sheet-with-walk-cycle-and-run-cycle-sequence-png-image_12205562_4: 1672423735
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
