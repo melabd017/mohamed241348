@@ -50,6 +50,9 @@ TagManager:
   - name: ground
     uniqueID: 2352694579
     locked: 0
+  - name: mushroom
+    uniqueID: 1801095049
+    locked: 0
   - name: char
     uniqueID: 2634317779
     locked: 0
